@@ -1,0 +1,4 @@
+Bài thi cuối kỳ Sẽ thi trong 60ph và có 3 bài liên quan tới nội dung
+1- kỹ thuật tích hợp chuyển đổi các nguồn dữ liệu hỗn tạp
+2- cách chuẩn hóa và tiền xử lý dữ liệu trước khi khai phá
+3- hiểu thuật toán giải quyết 3 bài toán khai phá trong chương trình
